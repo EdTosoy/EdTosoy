@@ -26,5 +26,3 @@ Apollo | Express | HTML
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edtosoy&show_icons=true&show_icons=true&icon_color=fb8c00&title_color=fb8c00&count_private=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edtosoy)
