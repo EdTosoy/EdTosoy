@@ -1,21 +1,17 @@
 
 ![Reactjs and Graphql Enthusiast](https://raw.githubusercontent.com/EdTosoy/EdTosoy/main/banner.PNG)
 
-# Hi there 👋, I'm ED Tosoy
 
 ### ReactJS and GraphQL Enthusiast
 
 <hr/>
 
-I'm Ed Tosoy from the Philippines, a Full Stack JavaScript Developer. I really enjoy building web application with React, TypeScript, Apollo, as well as work in GraphQL, TypeOrm, TypeGraphql, Express. I also enjoy wireframing, UI, UX, and Design/Development in general.
+# Hi there 👋, I'm ED Tosoy
+## a full-Stack Dev
 
-Tech Stack :| | |
---- | --- | ---
-TypeScript | Graphql | JavaScript
-React | PostgreSQL / MongoDB | SASS/ CSS
-Apollo | Express | HTML
+I'm a software engineer based in Manila, Philippines specializing in building exceptional websites, applications, and everything in between.
 
-<br/>
+I started web development in 2018, after doing Front-end, I switched to Full Stack development, where I work with a variety of meaningful projects.
 
 
 
@@ -25,4 +21,4 @@ Apollo | Express | HTML
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edtosoy&show_icons=true&show_icons=true&icon_color=fb8c00&title_color=fb8c00&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edtosoy&layout=compact)
