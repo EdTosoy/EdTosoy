@@ -2,7 +2,7 @@
 ![Reactjs and Graphql Enthusiast](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
 
 
-### ReactJS and GraphQL Enthusiast
+### Next Js, React, TypeScript, GraphQL, enthusiast
 
 <hr/>
 
