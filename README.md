@@ -1,5 +1,5 @@
 ![Angular and Platform Engineering Enthusiast](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
-### Full-stack, Angular, NestJS, TypeScript, Platform Engineering enthusiast
+### Full-stack, Angular, NestJS, TypeScript, Platform Engineering, Nixos, Neovim enthusiast
 <hr/>
 
 # Hi there 👋, I'm ED Tosoy
