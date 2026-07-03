@@ -13,4 +13,4 @@ I started web development in 2018. After a few years of front-end and full-stack
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edtosoy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/edtosoy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/edtosoy) [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://edtosoy.vercel.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ed.tosoy@gmail.com)
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edtosoy&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=edtosoy&hide_border=true&border_radius=7.5)
