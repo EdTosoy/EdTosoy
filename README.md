@@ -5,7 +5,7 @@
 # Hi there 👋, I'm ED Tosoy
 ## a Full-Stack Dev moving into Platform Engineering
 
-I'm a software engineer based in Quezon City, Philippines, specializing in full-stack web applications — Angular on the frontend, NestJS on the backend — with a growing focus on platform engineering: infrastructure, observability, and developer experience.
+I'm a software engineer based in Philippines, specializing in full-stack web applications — Angular on the frontend, NestJS on the backend — with a growing focus on platform engineering: infrastructure, observability, and developer experience.
 
 I started web development in 2018. After a few years of front-end and full-stack work, I've been deliberately building depth in Docker, Kubernetes, Terraform, and observability tooling (Prometheus, Grafana) as I work toward platform engineering roles.
 
