@@ -1,17 +1,57 @@
-![Angular and Platform Engineering Enthusiast](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
-### Full-stack, Angular, NestJS, TypeScript - building toward Platform Engineering
-<hr/>
+![Software Engineering, Cloud & DevOps](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
 
-# Hi there 👋, I'm ED Tosoy (I use neovim, nixos, dvorak BTW)
-## a Full-Stack Dev moving into Platform Engineering
+# Hi there 👋, I'm Edberto Tosoy
 
-I'm a software engineer based in Philippines, specializing in full-stack web applications — Angular on the frontend, NestJS on the backend — with a growing focus on platform engineering: infrastructure, observability, and developer experience.
+### Software Engineer • Cloud & DevOps • Building toward Platform Engineering
 
-I started web development in 2018. After a few years of front-end and full-stack work, I've been deliberately building depth in Docker, Kubernetes, Terraform, and observability tooling (Prometheus, Grafana) as I work toward platform engineering roles.
+I'm a Software Engineer from the Philippines with professional experience developing production banking applications and a strong foundation in modern web technologies.
 
+I'm currently expanding into Cloud, DevOps, and Platform Engineering through hands-on projects involving Docker, Kubernetes, Terraform, AWS, CI/CD, Linux, and observability. My long-term goal is to build reliable infrastructure, deployment platforms, and developer tooling that enable engineering teams to ship software efficiently.
 
-### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edtosoy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/edtosoy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/edtosoy) [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://edtosoy.vercel.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ed.tosoy@gmail.com)
-<br/>
+---
+
+## Currently Focused On
+
+- ☁️ Cloud Infrastructure (AWS)
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes (Learning)
+- 🌍 Terraform (Learning)
+- 🚀 CI/CD & GitHub Actions
+- 📈 Prometheus & Grafana
+- 🐧 Linux (NixOS)
+- ⚡ Neovim
+- 🤖 AI-powered Applications
+- 🏗️ Platform Engineering
+
+---
+
+## Tech Stack
+
+### Cloud & DevOps
+
+Docker • Kubernetes • Terraform • AWS • GitHub Actions • Prometheus • Grafana • Linux
+
+### Backend
+
+NestJS • Node.js • Express • RabbitMQ • REST APIs • PostgreSQL • Drizzle ORM
+
+### Frontend
+
+Angular • React • Next.js • TypeScript • Tailwind CSS • Redux Toolkit
+
+### Other
+
+Go • Python • Git • NixOS • Neovim
+
+---
+
+## Connect with me
+
+[Portfolio](https://tosoyed-portfolio.vercel.app/) •
+[LinkedIn](https://linkedin.com/in/edtosoy) •
+[GitHub](https://github.com/edtosoy) •
+[Email](mailto:edberto.tosoy@gmail.com)
+
+---
 
 ![Top Languages](https://ghstats.dev/api/langs?username=edtosoy&hide_border=true&border_radius=7.5)
