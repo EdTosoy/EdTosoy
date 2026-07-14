@@ -4,9 +4,7 @@
 
 ### Software Engineer • Cloud & DevOps • Building toward Platform Engineering
 
-I'm a Software Engineer from the Philippines with professional experience developing production banking applications and a strong foundation in modern web technologies.
-
-I'm currently expanding into Cloud, DevOps, and Platform Engineering through hands-on projects involving Docker, Kubernetes, Terraform, AWS, CI/CD, Linux, and observability. My long-term goal is to build reliable infrastructure, deployment platforms, and developer tooling that enable engineering teams to ship software efficiently.
+I'm a Software Engineer from the Philippines with professional experience developing production banking applications and a strong foundation in modern web technologies. Currently expanding into Cloud, DevOps, and Platform Engineering.
 
 ---
 
@@ -18,10 +16,6 @@ I'm currently expanding into Cloud, DevOps, and Platform Engineering through han
 - 🌍 Terraform (Learning)
 - 🚀 CI/CD & GitHub Actions
 - 📈 Prometheus & Grafana
-- 🐧 Linux (NixOS)
-- ⚡ Neovim
-- 🤖 AI-powered Applications
-- 🏗️ Platform Engineering
 
 ---
 
@@ -33,15 +27,11 @@ Docker • Kubernetes • Terraform • AWS • GitHub Actions • Prometheus �
 
 ### Backend
 
-NestJS • Node.js • Express • RabbitMQ • REST APIs • PostgreSQL • Drizzle ORM
+NestJS • Node.js • Express • PostgreSQL • Drizzle ORM
 
 ### Frontend
 
-Angular • React • Next.js • TypeScript • Tailwind CSS • Redux Toolkit
-
-### Other
-
-Go • Python • Git • NixOS • Neovim
+Angular • React • Next.js • Tailwind CSS
 
 ---
 
