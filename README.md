@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Edberto Tosoy
 
-### Software Engineer • Cloud & DevOps • Building toward Platform Engineering
+### Fullstack Engineer • Cloud & DevOps
 
 I'm a Software Engineer from the Philippines with professional experience developing production banking applications and a strong foundation in modern web technologies. Currently expanding into Cloud, DevOps, and Platform Engineering.
 
@@ -23,7 +23,7 @@ I'm a Software Engineer from the Philippines with professional experience develo
 
 ### Cloud & DevOps
 
-Docker • Kubernetes • Terraform • AWS • GitHub Actions • Prometheus • Grafana • Linux
+Docker • Terraform • AWS • GitHub Actions • Prometheus • Grafana • Kubernetes
 
 ### Backend
 
