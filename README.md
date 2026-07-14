@@ -37,10 +37,9 @@ Angular • React • Next.js • Tailwind CSS
 
 ## Connect with me
 
-[Portfolio](https://tosoyed-portfolio.vercel.app/) •
 [LinkedIn](https://linkedin.com/in/edtosoy) •
-[GitHub](https://github.com/edtosoy) •
-[Email](mailto:edberto.tosoy@gmail.com)
+[Email](mailto:edberto.tosoy@gmail.com) •
+[Portfolio](https://tosoyed-portfolio.vercel.app/)
 
 ---
 
