@@ -4,7 +4,7 @@
 
 ### Fullstack Engineer • Cloud & DevOps
 
-I'm a Software Engineer from the Philippines with professional experience developing production banking applications and a strong foundation in modern web technologies. Currently expanding into Cloud, DevOps, and Platform Engineering.
+I'm a Software Engineer building production full-stack applications with expertise in modern web technologies. Currently expanding into Cloud, DevOps, and Platform Engineering.
 
 ---
 
@@ -27,11 +27,11 @@ Docker • Terraform • AWS • GitHub Actions • Prometheus • Grafana • K
 
 ### Backend
 
-NestJS • Node.js • Express • PostgreSQL • Drizzle ORM
+NestJS • Node.js • Express • PostgreSQL • Drizzle ORM • RabbitMQ
 
 ### Frontend
 
-Angular • React • Next.js • Tailwind CSS
+Angular • React • Next.js • Tailwind CSS • ShadCn • SpartanNG
 
 ---
 
@@ -39,7 +39,7 @@ Angular • React • Next.js • Tailwind CSS
 
 [LinkedIn](https://linkedin.com/in/edtosoy) •
 [Email](mailto:edberto.tosoy@gmail.com) •
-[Portfolio](https://tosoyed-portfolio.vercel.app/)
+[Portfolio](https://edtosoy.vercel.app/)
 
 ---
 
