@@ -1,7 +1,7 @@
 ![Software Engineering, Cloud & DevOps](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
 
 # Hi there👋, I'm Edberto Tosoy
-> I used Neovim, Nixos, Dvorak btw... 😂
+> I use Neovim, Nixos, Dvorak btw... 😂
 
 ### Fullstack Engineer • Cloud & DevOps
 
