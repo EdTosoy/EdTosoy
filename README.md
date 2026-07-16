@@ -13,7 +13,7 @@ I'm a Software Engineer from the Philippines with professional experience develo
 - ☁️ Cloud Infrastructure (AWS)
 - 🐳 Docker & Containerization
 - ☸️ Kubernetes (basics)
-- 🌍 Terraform (Learning)
+- 🌍 Terraform
 - 🚀 CI/CD & GitHub Actions
 - 📈 Prometheus & Grafana
 
