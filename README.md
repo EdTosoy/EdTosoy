@@ -7,17 +7,6 @@ I'm a Software Engineer building production full-stack applications with experti
 
 ---
 
-## Currently Focused On
-
-- ☁️ Cloud Infrastructure (AWS)
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes (basics)
-- 🌍 Terraform
-- 🚀 CI/CD & GitHub Actions
-- 📈 Prometheus & Grafana
-
----
-
 ## Tech Stack
 
 ### Cloud & DevOps
