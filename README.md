@@ -1,6 +1,7 @@
 ![Software Engineering, Cloud & DevOps](https://raw.githubusercontent.com/brixx21/resume/master/repoBG.png)
 
 # Hi there 👋, I'm Edberto Tosoy
+> I used vim btw :p
 
 ### Fullstack Engineer • Cloud & DevOps
 
