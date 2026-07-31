@@ -4,7 +4,7 @@
 
 ### Software Engineer • Platform Engineering • Cloud & DevOps
 
-I'm a software engineer with experience building production web applications. I enjoy building reliable software, exploring backend systems, and understanding the infrastructure that powers modern applications. My current focus is developing practical skills in Platform Engineering, cloud infrastructure, Kubernetes, Infrastructure as Code, and automation through hands-on projects.
+I'm a software engineer with experience building production web applications. I enjoy building reliable software, exploring backend systems, and understanding the infrastructure that powers modern applications. My current focus is developing practical skills in Platform Engineering, cloud infrastructure, Kubernetes, Infrastructure as Code, and automation.
 
 ---
 
